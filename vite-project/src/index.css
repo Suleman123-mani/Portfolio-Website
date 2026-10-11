@@ -1,0 +1,17 @@
+*{
+
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+
+  text-decoration: none;
+}
+
+body{
+
+  background: rgb(30, 30, 32);
+color: #fff;
+  overflow: hidden;
+  font-family: sans-serif;
+
+}
